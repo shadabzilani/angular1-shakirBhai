@@ -1,2 +1,2 @@
 # angular1-shakirBhai
-classes by shakir bhai
+classes by shakir bhai shaddam
